@@ -1,5 +1,9 @@
 Welcome to the repository for my analysis of the Sport Obermeyer case study. This project delves into the operational and strategic decisions faced by Sport Obermeyer, a leading skiwear manufacturer, focusing on procurement, cost management, and forecasting techniques.
 
+<img width="929" alt="image" src="https://github.com/user-attachments/assets/06bdafa3-1366-42fc-98ef-23d7a53bf736">
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/da2145ec-b5f9-4c2d-879b-c5d37437e1a7">
+
+
 This repository includes detailed insights and models aimed at addressing the challenges of sourcing, production planning, and inventory management in a highly dynamic and unpredictable fashion industry.
 
 📌 **Objectives**
